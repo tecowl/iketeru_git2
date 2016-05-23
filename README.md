@@ -1,1 +1,2 @@
-h e ｌl o , w o r l d ！ G i t   a   c o o l   S C M Git a cool SCM
+'helo,world!' 
+'Git a cool SCM' 
